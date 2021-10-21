@@ -12,13 +12,11 @@ Se você se sentir confortável com isso, por favor, explique ao nosso time o qu
 
 Ah, e fique tranquilo(a), sabemos que um dos recursos mais importantes de um programador é o Google, rs, então **fique a vontade para pesquisar o que for necessário durante o teste**.
 
-## :dart: Requisitos do projeto
+## :dart: Requisitos básicos do projeto
 
 - Deve-se utilizar PHP e Laravel 8;
 - A aplicação deve atender aos 2 casos de uso propostos (serão enunciados no momento do teste);
 - Devem ser seguidos os princípios da orientação a objetos;
-- A aplicação deve possuir tratamento de erros;
-- Deve-se demonstrar, em alguma implementação, o princípio da Inversão de Dependências do acrônimo SOLID;
 
 ## :page_facing_up: Critérios de avaliação
 
