@@ -4,7 +4,7 @@ Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas 
 
 ## :eyes: Como funciona
 
-Você participará de uma videoconferência, com duração máxima prevista de 1h e 30 minutos, sendo os 10 primeiros minutos para o nosso time explicar o que deve ser desenvolvido e reforçar os pontos expostos neste enunciado (requisitos, critérios de avaliação e o que você deve, pode ou não fazer). O teste será conduzido por 2 pessoas da Ensinio, um(a) líder técnico e outro(a) desenvolvedor(a) do time.
+Você participará de uma videoconferência, com duração máxima prevista de 1h e 20 minutos, sendo os 10 primeiros minutos para o nosso time explicar o que deve ser desenvolvido e reforçar os pontos expostos neste enunciado (requisitos, critérios de avaliação e o que você deve, pode ou não fazer) e os 10 minutos finais para eventuais feedbacks e/ou perguntas. O teste será conduzido por 2 pessoas da Ensinio, um(a) líder técnico e outro(a) desenvolvedor(a) do time.
 
 No momento da videoconferência, você deve estar utilizando um computador onde possa programar, e **deve estar com o ambiente de desenvolvimento pronto** para iniciar o teste, **com as principais dependências já instaladas** (PHP, Laravel). Pedimos também que você esteja com a câmera ligada. **Você deve compartilhar sua tela durante toda a resolução do teste**.
 
